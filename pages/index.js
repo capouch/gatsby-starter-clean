@@ -16,9 +16,15 @@ export default class Index extends React.Component {
           ]}
         />
         <h1>
-          I made it!!!
+          Food Information 6 January 2019
         </h1>
-        <p>Welcome to my first Gatsby/Netlify deployment</p>
+        <p><b>Monday Lunch</b></p>
+        <p>There is sliced bread in the freezer.  I'll get out four slices.
+        There's a baggie in the fridge with ham and cheese slices.  Also some
+        rice pudding for dessert.</p>
+        <p><b>Monday Dinner</b></p>
+        <p>Hoosier Stew, in a pint container in the fridge.  Just needs put into a
+        bowl and warmed up.</p>
       </div>
     )
   }
